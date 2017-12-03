@@ -14,12 +14,13 @@ Features Done :
 - We also have bar charts related to the top 20 countries where there were maximum number of attacks.
 - These bar charts have different metrics are is interactable as well.
 --------------------------------------------------------------------------------------------------------------------
-After 1st website
+Changes done After 1st Milestone.
+
 URL to Website - https://tejashs.github.io/
 Link to screen cast - https://www.dropbox.com/s/8sryngywcw5dq7h/Project_Video.mp4?dl=0
-Libraries - D3 tip and bootstrap. 
-Everything else is our code.
-Our code is in public
+Libraries used- D3 tip and bootstrap. 
+Own code - Everything else.
+Our code is a public repository.
 
 
 Non obvious features- region in the map is clickable
